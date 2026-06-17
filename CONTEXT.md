@@ -174,3 +174,23 @@ Avoid:
 * Sales language
 * Corporate jargon
 * Overly academic writing
+
+## Language Workflow
+
+All research, discussion, brainstorming, and drafting should happen in Chinese.
+
+The author thinks and reasons in Chinese.
+
+Only after the Chinese version is finalized should an English version be created.
+
+The English version should NOT be a translation.
+
+It should be rewritten for native English readers while preserving the core ideas.
+
+Target publication platforms:
+
+- Medium
+- LinkedIn
+- Developer communities
+
+The English version should read like an original article written by an English-speaking practitioner.
